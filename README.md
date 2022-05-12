@@ -3,7 +3,7 @@
 Trabalho de Teoria da Computação - UFAL 2022
 
 **Discentes:** Lucas Carvalho, Pablo Vinícius, Pedro José  
-**Professor** Fábio Paraguaçu
+**Professor:** Fábio Paraguaçu
 
 ---
 

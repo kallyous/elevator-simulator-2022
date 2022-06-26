@@ -27,4 +27,4 @@ Boa sorte e divirta-se.
 
 ## Compilação
 
-Para compilar e executar o projeto localmente é necessário instalar o editor e motor de jogo [Unity](https://unity.com/) instalado, na sua versão 2020.3.x, abrir o projeto e seguir as instruções em [Unity WebGL Build and Publish](https://learn.unity.com/tutorial/creating-and-publishing-webgl-builds#).
+Para compilar e executar o projeto localmente é necessário ter o editor e motor de jogo [Unity](https://unity.com/) instalado, na sua versão 2020.3.x, abrir o projeto e seguir as instruções em [Unity WebGL Build and Publish](https://learn.unity.com/tutorial/creating-and-publishing-webgl-builds#).
